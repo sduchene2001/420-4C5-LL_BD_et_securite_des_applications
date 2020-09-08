@@ -1,0 +1,106 @@
+{
+  "Films": [
+  {
+  "Titre": "Les Minions",
+  "Directeur": "Kyle Balda, Pierre Coffin",
+  "Auteur": "Brian Lynch,",
+  "Date": 2015,
+  "Description": "Les Minions Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, un supervillain qui, aux côtés de son mari inventeur Herb, élabore un complot pour conquérir le monde.",
+  "Vedette": [
+    {
+      "Nom": "Sandra Bullock",
+      "Personnage": "Scarlet Overkill (voix)",
+      "Âge": "56 ans"
+    },
+    {
+      "Nom": "Jon Hamm",
+      "Personnage": "Herb Overkill  (voix)",
+      "Âge": "49 ans"
+    },
+    {
+      "Nom": "Michael Keaton",
+      "Personnage": "Walter Nelson (voix)",
+      "Âge": "69 ans"
+    }
+    ],
+  "BoxOffice":[
+    {
+      "Budget": "environ $74 000 000",
+      "Fin de semaine d'ouverture au USA": "12 Juillet 2015",
+      "Total USA": "$336 045 770",
+      "Total dans le monde": "$1 159 443 203"
+    }
+    ] 
+  },
+  
+  {  
+  "Titre": "Fight Club",
+  "Directeur": "David Fincher",
+  "Auteur": "Jim Uhls,",
+  "Date": 1999,
+  "Description": "Un employé de bureau insomniaque et un savonnier qui se soucie du diable forment un club de combat clandestin qui évolue en quelque chose de beaucoup, beaucoup plus.",
+  "Vedette": [
+    {
+      "Nom": " Brad Pitt",
+      "Personnage": "Tyler Durden",
+      "Âge": "57 ans"
+    },
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "Le narrateur",
+      "Âge": "51 ans"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Personnage": "Robert 'Bob' Paulsen",
+      "Âge": "73 ans"
+    }
+    ],
+  "BoxOffice":[
+    {
+      "Budget": "environ $63 000 000",
+      "Fin de semaine d'ouverture au USA": "17 Octobre 1999",
+      "Total USA": "$37 030 102",
+      "Total dans le monde": "$101 218 804"
+    }
+    ]
+    },
+    
+    {  
+  "Titre": "Spirit",
+  "Directeur": "Kelly Asbury, Lorna Cook",
+  "Auteur": "John Fusco, Michael Lucker (co-auteur),",
+  "Date": 2002,
+  "Description": "Un étalon sauvage est capturé par l'homme et perd lentement la volonté de résister à l'entraînement, pourtant, tout au long de ses luttes pour la liberté, l'étalon refuse de lâcher l'espoir de rentrer un jour chez lui dans son troupeau.",
+  "Vedette": [
+    {
+      "Nom": "Matt Damon",
+      "Personnage": "Spirit (voix)",
+      "Âge": "50 ans"
+    },
+    {
+      "Nom": "James Cromwell",
+      "Personnage": "Le colonel (voix)",
+      "Âge": "80 ans"
+    },
+    {
+      "Nom": "Daniel Studi",
+      "Personnage": "L'indien (voix)",
+      "Âge": "72 ans"
+    }
+    ],
+  "BoxOffice":[
+    {
+      "Budget": "environ $80 000 000",
+      "Fin de semaine d'ouverture au USA": "26 Mai 2002",
+      "Total USA": "$73 280 117",
+      "Total dans le monde": "$122 563 539"
+    }
+    ]
+    }
+  
+  ]
+}
+
+
+ 
