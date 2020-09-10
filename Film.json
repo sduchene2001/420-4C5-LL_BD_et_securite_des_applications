@@ -59,9 +59,9 @@
   "BoxOffice":[
     {
       "Budget": "environ $63 000 000",
-      "Fin de semaine d'ouverture au USA": "17 Octobre 1999",
-      "Total USA": "$37 030 102",
-      "Total dans le monde": "$101 218 804"
+      "FDSOuvertureUSA": "17 Octobre 1999",
+      "TotalUSA": "$37 030 102",
+      "TotalMonde": "$101 218 804"
     }
     ]
     },
