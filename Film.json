@@ -26,9 +26,9 @@
   "BoxOffice":[
     {
       "Budget": "environ $74 000 000",
-      "Fin de semaine d'ouverture au USA": "12 Juillet 2015",
-      "Total USA": "$336 045 770",
-      "Total dans le monde": "$1 159 443 203"
+      "FDSOuvertureUSA": "12 Juillet 2015",
+      "TotalUSA": "$336 045 770",
+      "TotalMonde": "$1 159 443 203"
     }
     ] 
   },
@@ -92,9 +92,9 @@
   "BoxOffice":[
     {
       "Budget": "environ $80 000 000",
-      "Fin de semaine d'ouverture au USA": "26 Mai 2002",
-      "Total USA": "$73 280 117",
-      "Total dans le monde": "$122 563 539"
+      "FDSOuvertureUSA": "26 Mai 2002",
+      "TotalUSA": "$73 280 117",
+      "TotalMonde": "$122 563 539"
     }
     ]
     }
